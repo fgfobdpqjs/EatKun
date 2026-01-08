@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉蔡徐坤
 
-最新版本号：0.0.0
+最新版本号：0.0.1
 
 [English](README_EN.md)
 |
@@ -22,7 +22,7 @@ _🦌 网页小游戏 🥛_
 |
 [游玩](https://chicxk.pages.dev/)
 |
-[Github Pages](https://fgfobdpqjs.github.io/EatKun/)
+[Github Pages](https://fgfobdpqjs.github.io/EatKun/index.html)
 |
 [Releases](https://github.com/fgfobdpqjs/EatKunGai1/releases)
 
@@ -78,7 +78,7 @@ _🦌 网页小游戏 🥛_
 
 3. 找到`static/image`文件夹, 点击前显示的图片是`ClickBefore.png`, 点击后的图片是`ClickAfter.png`, 把他们改成你想要的即可.
 
-    **注意文件格式, 需要是png**
+   **注意文件格式, 需要是png**
 
 4. 找到`static/music`文件夹, 点击时的音效是`tap.mp3`, 正常结束的音效是`end.mp3`, 点击错误的音效是`err.mp3`, 把他们改成你想要的即可.
 
@@ -114,19 +114,19 @@ _🦌 网页小游戏 🥛_
 
 ## 使用的项目及其许可证
 
-1. EatKano ([网站](https://xingye.me/game/eatkano) [Github](https://github.com/arcxingye/EatKano) [许可证: MIT license](https://raw.githubusercontent.com/arcxingye/EatKano/refs/heads/main/LICENSE))
+1. EatKano ([网站](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [许可证：MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.arcxingye.EatKano_LICENSE.txt))
 
-2. EatCat ([Github](https://github.com/122440367/eatcat) 许可证: 未知)
+2. EatCat ([GitHub](https://github.com/122440367/eatcat) 许可证：未知)
 
-3. EatCat ([Github](https://github.com/Webpage-gh/eatcat) 许可证: 未知)
+3. EatCat ([GitHub](https://github.com/Webpage-gh/eatcat) [许可证：Apache License 2.0](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.Webpage-gh.eatcat_LICENSE.txt))
 
-4. Bootstrap v5.1.1 ([网站](https://getbootstrap.com/) [Github](https://github.com/twbs/bootstrap/releases/tag/v5.1.1) [许可证: MIT license](https://raw.githubusercontent.com/twbs/bootstrap/refs/heads/main/LICENSE))
+4. Bootstrap v5.1.1 ([网站](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/tag/v5.1.1) [许可证：MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.twbs.bootstrap_LICENSE.txt))
 
-5. CREATEJS v1.0.0 ([网站](http://createjs.com/) [Github](https://github.com/CreateJS/CreateJS) [许可证: MIT license](https://raw.githubusercontent.com/CreateJS/CreateJS/refs/heads/master/LICENSE))
+5. CREATEJS v1.0.0 ([网站](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [许可证：MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt)
 
-6. jQuery 3.6.0 ([网站](https://jquery.com/) [Github](https://github.com/jquery/jquery/releases/tag/3.6.0) [许可证](https://raw.githubusercontent.com/jquery/jquery/refs/heads/main/LICENSE.txt))
+6. jQuery 3.6.0 ([网站](https://jquery.com/) [GitHub](https://github.com/jquery/jquery/releases/tag/3.6.0) [许可证](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.jquery.jquery_LICENSE.txt))
 
-7. JSEncrypt ([网站](https://travistidwell.com/jsencrypt) [Github](https://github.com/travist/jsencrypt) [许可证: MIT license](https://raw.githubusercontent.com/travist/jsencrypt/refs/heads/master/LICENSE.txt))
+7. JSEncrypt ([网站](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [许可证](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.travist.jsencrypt_LICENSE.txt))
 
 ## Star 统计
 
@@ -134,6 +134,6 @@ _🦌 网页小游戏 🥛_
 
 ## 其它事项
 
-此项目使用[BSD 3-Clause License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE-code)进行授权，在使用本项目时，请标注来源/原作者，且不能以原作者的名义进行发布。
+此项目使用 [MIT License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE-code) 进行授权，在使用本项目时，请标注来源/原作者。
 
-`README.md`、`README_EN.md`和本项目[Wiki](https://github.com/fgfobdpqjs/EatKun/wiki)（现在没有，未来可能会有）使用[Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE-text)进行授权，在使用本项目时，请标注来源/原作者。
+`README.md`、`README_EN.md`和本项目 [Wiki](https://github.com/fgfobdpqjs/EatKun/wiki)（现在没有，未来可能会有）使用 [Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/LICENSE-text) 进行授权，在使用本项目时，请标注来源/原作者。

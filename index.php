@@ -14,7 +14,7 @@
     <link href="./files/css/bootstrap.min.css" rel="stylesheet">
     <script src="./files/js/bootstrap.bundle.min.js"></script>
     <script src="./files/js/jquery.min.js"></script>
-    <script src="./files/json/city.json"></script>
+    <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
 	<?php
     session_start();
     $str = substr(str_shuffle('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890'), 0, 8);
@@ -42,10 +42,10 @@
                 <button type="button" class="btn btn-secondary btn-lg" id="replay" onclick="replayBtn()" data-i18n="again">AGAIN-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="backBtn()" data-i18n="home">HOME-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="goRank()" data-i18n="rank">RANK-I18N</button>
-                <button type="button" class="btn btn-secondary btn-lg" onclick="openSourceCode('https://github.com/fgfobdpqjs/EatKun')" data-i18n="repo">REPO-I18N</button>
-                <button type="button" class="btn btn-secondary btn-lg" onclick="openSourceCode('https://github.com/fgfobdpqjs/EatKun/blob/main/README_EN.md#others')" data-i18n="license">LICENSE-I18N</button>
-                <button type="button" class="btn btn-secondary btn-lg" onclick="openSourceCode('https://github.com/fgfobdpqjs/EatKun/blob/main/README_EN.md#used-items-and-their-licenses')'" data-i18n="use-project">USE-PROJECT-I18N</button>
-                <button type="button" class="btn btn-secondary btn-lg" onclick="openSourceCode('https://github.com/fgfobdpqjs/EatKun/blob/main/README_EN.md#disclaimer')" data-i18n="disclaimer">DISCLAIMER-I18N</button>
+                <button type="button" class="btn btn-secondary btn-lg" onclick="openWebpage('https://github.com/fgfobdpqjs/EatKun')" data-i18n="repo">REPO-I18N</button>
+                <button type="button" class="btn btn-secondary btn-lg" onclick="openWebpage('https://github.com/fgfobdpqjs/EatKun/blob/main/README_EN.md#others')" data-i18n="license">LICENSE-I18N</button>
+                <button type="button" class="btn btn-secondary btn-lg" onclick="openWebpage('https://github.com/fgfobdpqjs/EatKun/blob/main/README_EN.md#used-items-and-their-licenses')'" data-i18n="use-project">USE-PROJECT-I18N</button>
+                <button type="button" class="btn btn-secondary btn-lg" onclick="openWebpage('https://github.com/fgfobdpqjs/EatKun/blob/main/README_EN.md#disclaimer')" data-i18n="disclaimer">DISCLAIMER-I18N</button>
             </div>
     </div>
     </div>
