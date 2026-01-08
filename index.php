@@ -83,7 +83,7 @@
                 <div id="setting" class="container" style="display: none;">
                     <div class="container mb-5">
                         <div style="display: block;font-size:2.2em; color:#fff; line-height:1.5em;">
-                            <span data-i18n="version">VERSION-I18N</span><span>0.0.0</span><br />
+                            <span data-i18n="version">VERSION-I18N</span><span>0.0.1</span><br />
                         </div>
                     </div>
                     <div class="container mb-3 btn-group">
