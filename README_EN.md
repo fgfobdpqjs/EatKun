@@ -28,7 +28,7 @@ Latest version: 0.0.1
 
 ## Features
 
-A simple ranking list(day/week/month) is provided.
+A simple ranking list (day/week/month) is provided.
 
 You can delete all the sql/php files if you don't need them.
 
@@ -121,7 +121,7 @@ Follow these few steps to configure the database for ranking list on your server
 
 4. Bootstrap v5.1.1 ([Website](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/tag/v5.1.1) [License: MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.twbs.bootstrap_LICENSE.txt))
 
-5. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt)
+5. CREATEJS v1.0.0 ([Website](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [License: MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt))
 
 6. jQuery 3.6.0 ([Website](https://jquery.com/) [GitHub](https://github.com/jquery/jquery/releases/tag/3.6.0) [License](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.jquery.jquery_LICENSE.txt))
 

@@ -28,9 +28,9 @@ _🦌 网页小游戏 🥛_
 
 ## 可选功能
 
-简易排行榜(日/周/月) 不推荐使用
+简易排行榜（日/周/月）不推荐使用
 
-不需要排行榜把php/sql文件都删掉即可
+不需要排行榜把 php/sql 文件都删掉即可
 
 ## 版本需求
 
@@ -41,7 +41,7 @@ _🦌 网页小游戏 🥛_
 
 本游戏与蔡徐坤本人及其经纪团队无任何关联，仅供娱乐。
 
-`static/image`、`static/music`内容来自[爱给网](https://www.aigei.com/s?q=%E8%94%A1%E5%BE%90%E5%9D%A4&type=sound)，若侵权可在[Issues](https://github.com/fgfobdpqjs/EatKun/issues)联系删除，并附上`delete`标签。
+`static/image`、`static/music`内容来自[爱给网](https://www.aigei.com/s?q=%E8%94%A1%E5%BE%90%E5%9D%A4&type=sound)，若侵权可在 [Issues](https://github.com/fgfobdpqjs/EatKun/issues) 联系删除，并附上`delete`标签。
 
 ## 使用方法
 
@@ -49,7 +49,7 @@ _🦌 网页小游戏 🥛_
 
 ### Github Pages
 
-点 [这里](https://www.bilibili.com/video/BV1r94y1d765) 看视频步骤
+点[这里](https://www.bilibili.com/video/BV1r94y1d765)看视频步骤
 
 如果你不需要排行榜, 那么部署到Github Pages即可.
 
@@ -122,7 +122,7 @@ _🦌 网页小游戏 🥛_
 
 4. Bootstrap v5.1.1 ([网站](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/tag/v5.1.1) [许可证：MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.twbs.bootstrap_LICENSE.txt))
 
-5. CREATEJS v1.0.0 ([网站](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [许可证：MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt)
+5. CREATEJS v1.0.0 ([网站](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [许可证：MIT license](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt))
 
 6. jQuery 3.6.0 ([网站](https://jquery.com/) [GitHub](https://github.com/jquery/jquery/releases/tag/3.6.0) [许可证](https://raw.githubusercontent.com/fgfobdpqjs/EatKun/refs/heads/main/files/license/github.jquery.jquery_LICENSE.txt))
 
