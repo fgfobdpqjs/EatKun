@@ -62,7 +62,7 @@
                         <span data-i18n="game-intro4">GAME-INTRO4-I18N</span><br />
                     </div>
                     <div id="version" style="display: none;font-size:2.2em; color:#fff; line-height:1.5em;">
-                        <span data-i18n="version">VERSION-I18N</span><span>0.0.0</span><br />
+                        <span data-i18n="version">VERSION-I18N</span><span>0.0.1</span><br />
                     </div>
                 </div>
                 <div id="btn_group" class="container text-nowrap">
@@ -80,11 +80,6 @@
                     </div>
                 </div>
                 <div id="setting" class="container" style="display: none;">
-                    <div class="container mb-5">
-                        <div style="display: block;font-size:2.2em; color:#fff; line-height:1.5em;">
-                            <span data-i18n="version">VERSION-I18N</span><span>0.0.1</span><br />
-                        </div>
-                    </div>
                     <div class="container mb-3 btn-group">
                         <a data-i18n="img-before" type="button" class="btn text-nowrap btn-secondary me-1" onclick="getClickBeforeImage()" style="left: 0">IMG-BEFORE-I18N</a>
                         <input type="file" id="click-before-image" accept="image/*" class="d-none" onchange="saveClickBeforeImage()">
