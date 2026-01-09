@@ -14,7 +14,7 @@ _🦌 Web Game 🥛_
 
 A web game: EatKun
 
-Latest version: 0.0.1
+Latest version: 0.0.2
 
 [Chinese](README.md)
 |
