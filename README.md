@@ -22,9 +22,9 @@ _🦌 网页小游戏 🥛_
 |
 [游玩](https://chicxk.pages.dev/)
 |
-[Github Pages](https://fgfobdpqjs.github.io/EatKun/index.html)
+[最新 Build](https://fgfobdpqjs.github.io/EatKun/index.html)
 |
-[Releases](https://github.com/fgfobdpqjs/EatKunGai1/releases)
+[Releases](https://github.com/fgfobdpqjs/EatKun/releases)
 
 ## 可选功能
 

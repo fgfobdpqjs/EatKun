@@ -22,9 +22,9 @@ Latest version: 0.0.1
 |
 [Play](https://chicxk.pages.dev/)
 |
-[Github Pages](https://fgfobdpqjs.github.io/EatKun/index.html)
+[Latest Build](https://fgfobdpqjs.github.io/EatKun/index.html)
 |
-[Releases](https://github.com/fgfobdpqjs/EatKunGai1/releases)
+[Releases](https://github.com/fgfobdpqjs/EatKun/releases)
 
 ## Features
 
