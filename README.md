@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉蔡徐坤
 
-最新版本号：0.0.3
+最新版本号：0.0.3f1
 
 [English](README_EN.md)
 |
@@ -22,9 +22,9 @@ _🦌 网页小游戏 🥛_
 |
 [游玩](https://chicxk.pages.dev/)
 |
-[最新 Build](https://EatKun.github.io/EatKun/index.html)
+[最新 Build](https://OneSitos.github.io/EatKun/index.html)
 |
-[Releases](https://github.com/EatKun/EatKun/releases)
+[Releases](https://github.com/OneSitos/EatKun/releases)
 
 ## 可选功能
 
@@ -114,26 +114,26 @@ _🦌 网页小游戏 🥛_
 
 ## 使用的项目及其许可证
 
-1. EatKano ([网站](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [许可证：MIT license](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/files/license/github.arcxingye.EatKano_LICENSE.txt))
+1. EatKano ([网站](https://xingye.me/game/eatkano) [GitHub](https://github.com/arcxingye/EatKano) [许可证：MIT license](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/files/license/github.arcxingye.EatKano_LICENSE.txt))
 
 2. EatCat ([GitHub](https://github.com/122440367/eatcat) 许可证：未知)
 
-3. EatCat ([GitHub](https://github.com/Webpage-gh/eatcat) [许可证：Apache License 2.0](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/files/license/github.Webpage-gh.eatcat_LICENSE.txt))
+3. EatCat ([GitHub](https://github.com/Webpage-gh/eatcat) [许可证：Apache License 2.0](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/files/license/github.Webpage-gh.eatcat_LICENSE.txt))
 
-4. Bootstrap v5.1.1 ([网站](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/tag/v5.1.1) [许可证：MIT license](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/files/license/github.twbs.bootstrap_LICENSE.txt))
+4. Bootstrap v5.1.1 ([网站](https://getbootstrap.com/) [GitHub](https://github.com/twbs/bootstrap/releases/tag/v5.1.1) [许可证：MIT license](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/files/license/github.twbs.bootstrap_LICENSE.txt))
 
-5. CREATEJS v1.0.0 ([网站](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [许可证：MIT license](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt))
+5. CREATEJS v1.0.0 ([网站](http://createjs.com/) [GitHub](https://github.com/CreateJS/CreateJS) [许可证：MIT license](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/files/license/github.CreateJS.CreateJS_LICENSE.txt))
 
 6. jQuery 3.6.0 ([网站](https://jquery.com/) [GitHub](https://github.com/jquery/jquery/releases/tag/3.6.0) [许可证](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/files/license/github.jquery.jquery_LICENSE.txt))
 
-7. JSEncrypt ([网站](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [许可证](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/files/license/github.travist.jsencrypt_LICENSE.txt))
+7. JSEncrypt ([网站](https://travistidwell.com/jsencrypt) [GitHub](https://github.com/travist/jsencrypt) [许可证](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/files/license/github.travist.jsencrypt_LICENSE.txt))
 
 ## Star 统计
 
-[![Stargazers over time](https://starchart.cc/EatKun/EatKun.svg?variant=adaptive)](https://starchart.cc/EatKun/EatKun)
+[![Stargazers over time](https://starchart.cc/OneSitos/EatKun.svg?variant=adaptive)](https://starchart.cc/OneSitos/EatKun)
 
 ## 其它事项
 
-此项目使用 [MIT License](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/LICENSE-code) 进行授权，在使用本项目时，请标注来源/原作者。
+此项目使用 [MIT License](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/LICENSE-code) 进行授权，在使用本项目时，请标注来源/原作者。
 
-`README.md`、`README_EN.md`和本项目 [Wiki](https://github.com/EatKun/EatKun/wiki)（现在没有，未来可能会有）使用 [Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/EatKun/EatKun/refs/heads/main/LICENSE-text) 进行授权，在使用本项目时，请标注来源/原作者。
+`README.md`、`README_EN.md`和本项目 [Wiki](https://github.com/OneSitos/EatKun/wiki)（现在没有，未来可能会有）使用 [Creative Commons Attribution 4.0 International Public License](https://raw.githubusercontent.com/OneSitos/EatKun/refs/heads/main/LICENSE-text) 进行授权，在使用本项目时，请标注来源/原作者。
